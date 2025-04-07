@@ -39,7 +39,7 @@ The project follows a component-based structure typical for Vue3 applications. B
    Open your terminal and run:
 
    ```bash 
-   perl复制git clone https://your.repo.url/emergency-caller-system.git
+   git clone https://github.com/2023782whl/emergency-caller-system.git
    cd emergency-caller-system
    ```
 
