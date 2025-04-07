@@ -1,0 +1,5 @@
+.el-form--default.el-form--label-top .el-form-item .el-form-item__label {
+    line-height: 30px !important;
+    margin-bottom: 0px !important;
+    padding-top: 4px !important;
+}

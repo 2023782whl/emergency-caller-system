@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "types": ["vite/client"], // 确保包含 Vite 的类型定义
+    "strict": true, // 可选，启用严格类型检查
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue", // 添加 Vue 文件支持
+    "env.d.ts"
+  ]
+}
