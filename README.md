@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Installation Guide and Page Overview for the Emergency Caller System
 
 ### Introduction
@@ -168,3 +169,8 @@ On the development side, tools like **Vite (^6.0.1)**, **TypeScript (~5.6.3)**, 
 ### Conclusion
 
 This installation guide provides a step-by-step process for setting up the Emergency Caller System. By understanding the structure of the project, the role of each page, and the detailed library versions, both developers and administrators can ensure that the application runs smoothly and is easy to maintain. Whether you are configuring a development environment or preparing for a production rollout, following these guidelines will help you manage the application effectively and support the critical task of emergency call-taking and dispatching.
+=======
+# emergency-caller-system
+Emergency call system with scheduling function based on Vue3
+
+>>>>>>> 383272d723d8e6b5e23d66bb590389447c2fa1b6
